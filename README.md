@@ -8,6 +8,6 @@ PyTorch notebooks written while reading *Fundamentals of Deep Learning* (O'Reill
 - **Sentiment_Analysis_Using_LSTM.ipynb** — Sentiment classifier on the IMDB dataset (via Hugging Face `datasets`). Hand-rolled tokenizer/encoder, custom `IMDBDataset`, and an `Embedding -> LSTM -> Linear` classifier (`TextClassifier`).
 - **VAE.ipynb** — Variational Autoencoder on MNIST. Gaussian MLP encoder / Bernoulli MLP decoder, reparameterization trick, custom VAE loss, with reconstructions saved to `VAE_reconstruction.png`.
 
-## Notes
+## Key Takeaways 
 
-PDFs (the book itself and the cheatsheet) are reference material only and not part of this repo's actual content.
+Learning about neural networks in summer 2026 was cool, I enjoyed learning about the history of advancement in this field from CNN to LSTM to transformers. I also found Reinforcement Learning an interesting field to look up in the future.
